@@ -1,3 +1,2 @@
-echo "test from where"
-
-whoami
+#!/bin/bash
+echo "sup tested"
