@@ -3,6 +3,7 @@ timestamp()
 {
     date '+%D %T.%3N'
 }
+# some changes
 DEFAULT_FOLDER_FROM="$PWD/files"
 DEFAULT_FOLDER_TO="$PWD/destination"
 ACTION=$1
@@ -21,7 +22,7 @@ DEFAULT_TEXT_DEBUG_ALT="Logging"
 
 ACTION_TEXT=""
 ACTION_TEXT_ALT=""
-
+#here is another change
 echo "[$(timestamp)] Organizer started."
 echo "-----------------------"
 
