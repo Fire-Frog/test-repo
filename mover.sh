@@ -147,3 +147,4 @@ done
 
 echo "[$(timestamp)] Organizer $ACTION_TEXT $CURRENT_FILE_INDEX/$TOTAL_FILES files."
 echo "[$(timestamp)] Organizer ended."
+#here is another simple change
