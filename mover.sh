@@ -3,6 +3,7 @@ timestamp()
 {
     date '+%D %T.%3N'
 }
+# some changes
 DEFAULT_FOLDER_FROM="$PWD/files"
 DEFAULT_FOLDER_TO="$PWD/destination"
 ACTION=$1
